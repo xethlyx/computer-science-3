@@ -1,8 +1,8 @@
 {
   "name": "website",
-  "homepage": "http://xethlyx.github.io",
+  "homepage": "http://xethlyx.github.io/computer-science-3",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
