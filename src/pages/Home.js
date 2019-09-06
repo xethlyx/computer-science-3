@@ -7,8 +7,8 @@ class Index extends Component {
   render() {
     return (
       <div>
-        <h2>Xethlyx's Personal Website</h2>
-				<p>Hello, welcome to my personal website where I showcase my accomplishments, creations, etc. As of right now, this website is in development. Updates will likely be infrequent and spread out.</p>
+        <h2>testing</h2>
+				<p>This is a test</p>
       </div>
     )
   }
