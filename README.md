@@ -1,1 +1,1 @@
-# Computer Science 3
+# computer-science-3
