@@ -5,7 +5,7 @@ import ParallaxBackground from './modules/ParallaxBackground';
 import Header from './modules/Header';
 
 import Home from './pages/Home';
-import Creations from './pages/Creations';
+import Download from './pages/Download';
 import Contact from './pages/Contact';
 import About from './pages/About'
 
@@ -19,7 +19,7 @@ class App extends Component {
 
   Components = {
     Home : Home,
-    Creations : Creations,
+    Download : Download,
     Contact : Contact,
     About : About
   }

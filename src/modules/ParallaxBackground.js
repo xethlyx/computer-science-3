@@ -9,8 +9,8 @@ const ParallaxBackground = (props) => {
       <div className="parallax-container"></div>
       <img className="parallax-logo" src={logo} alt="" />
       <div className="main-header">
-        <h1>test website</h1>
-        <h3>123 Testing.. It works!</h3>
+        <h1>Out of RAM?</h1>
+        <h3>We offer free RAM download solutions all year!</h3>
       </div>
     </div>
   )

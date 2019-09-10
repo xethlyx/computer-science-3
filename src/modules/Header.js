@@ -25,7 +25,7 @@ const Header = (props) => {
         <a href="./index.html" className="website-icon-container"><img src={logo} alt="XE"/></a>
         <ul>
             <li><a id="Home" className={isElementActive("Home")} onClick={props.handleChangePage} href="#content">Home</a></li>
-            <li><a id="Creations" className={isElementActive("Creations")} onClick={props.handleChangePage} href="#content">Creations</a></li>
+            <li><a id="Download" className={isElementActive("Download")} onClick={props.handleChangePage} href="#content">Download</a></li>
             <li><a id="Contact" className={isElementActive("Contact")} onClick={props.handleChangePage} href="#content">Contact</a></li>
             <li><a id="About" className={isElementActive("About")} onClick={props.handleChangePage} href="#content">About</a></li>
         </ul>
