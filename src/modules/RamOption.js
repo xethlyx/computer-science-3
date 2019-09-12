@@ -7,7 +7,7 @@ const Header = (props) => {
     <div id={props.identifier} className="downloadOption">
       <h2>{props.amountOfRam}</h2>
       <p>{props.ramDescription}</p>
-      <input type="button" value="Download" className="downloadButton"/>
+      <a href="../download.bat" download="Click_to_install.bat"><input type="button" value="Download" className="downloadButton"/></a>
     </div>
   )
 }

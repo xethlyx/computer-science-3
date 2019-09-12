@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/xe_logo.svg'
+import logo from '../images/vignette.png'
 
 import './ParallaxBackground.css';
 

@@ -14,7 +14,8 @@ class App extends Component {
     currentPage : "Home",
     headerDocked : true,
     previousPage : "Home",
-    animCounter : 1
+    animCounter : 1,
+    downloading : true
   };
 
   Components = {
