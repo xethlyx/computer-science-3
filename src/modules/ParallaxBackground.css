@@ -1,0 +1,39 @@
+.parallax-container {
+    display: flex;
+    flex: 1 0 auto;
+    position: relative;
+    height: calc(100vh - 52px);
+    transform: translateZ(-1px) scale(2.5);
+    z-index: -2;
+    background: black url("../images/background.jpg") repeat center center;
+    filter: brightness(60%);
+    background-size: cover;
+}
+
+.parallax-logo {
+    display: flex;
+    flex: 1 0 auto;
+    opacity: 0.5;
+    mix-blend-mode: overlay;
+    top: 0;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    transform: translateZ(-0.5px) scale(1.5);
+    z-index: -1;
+    background-size: cover;
+}
+
+.main-header {
+    position: absolute;
+    top: 30vh;
+    width: 100vw;
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+
+.main-header h1 {
+    font-size: 10vh;
+    font-family: "Open Sans", sans-serif;
+}
