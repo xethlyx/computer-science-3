@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "109fdc20ff82ad6fdd4d6dda081e4063",
+    "revision": "958f497fa75bcc7e76f4a63063b7f0aa",
     "url": "/computer-science-3/index.html"
   },
   {
-    "revision": "40e92cb688b48549c112",
-    "url": "/computer-science-3/static/css/main.b65ae982.chunk.css"
+    "revision": "a4e219824366f36a1409",
+    "url": "/computer-science-3/static/css/main.8e1a0927.chunk.css"
   },
   {
-    "revision": "39bf0ff8e0ba5f54d744",
-    "url": "/computer-science-3/static/js/2.1a2d9fe0.chunk.js"
+    "revision": "240f52b1a9a1e5ba49c4",
+    "url": "/computer-science-3/static/js/2.ee645e81.chunk.js"
   },
   {
-    "revision": "40e92cb688b48549c112",
-    "url": "/computer-science-3/static/js/main.142f681e.chunk.js"
+    "revision": "a4e219824366f36a1409",
+    "url": "/computer-science-3/static/js/main.319232fd.chunk.js"
   },
   {
     "revision": "b2721d283098056327e4",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de7c758e22092c21097abcec3a117a67",
     "url": "/computer-science-3/static/media/background.de7c758e.jpg"
+  },
+  {
+    "revision": "6bb46bca04cb23bbc26f42aff33d452d",
+    "url": "/computer-science-3/static/media/computer-memory.6bb46bca.jpg"
   },
   {
     "revision": "95dc440013f2a7c7128acf7f1ab2ace2",
