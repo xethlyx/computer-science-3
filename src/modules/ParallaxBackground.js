@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/vignette.png'
+import logo from '../images/vignette.png';
 
 import './ParallaxBackground.css';
 
@@ -12,6 +12,8 @@ const ParallaxBackground = (props) => {
         <h1>Out of RAM?</h1>
         <h3>We offer free RAM download solutions all year!</h3>
       </div>
+
+      <a id="content"></a>
     </div>
   )
 }

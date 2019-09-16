@@ -6,6 +6,7 @@ import Header from './modules/Header';
 
 import Home from './pages/Home';
 import Download from './pages/Download';
+import Enterprise from './pages/Enterprise';
 import Contact from './pages/Contact';
 import About from './pages/About'
 
@@ -21,6 +22,7 @@ class App extends Component {
   Components = {
     Home : Home,
     Download : Download,
+    Enterprise : Enterprise,
     Contact : Contact,
     About : About
   }

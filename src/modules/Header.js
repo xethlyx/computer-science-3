@@ -26,6 +26,7 @@ const Header = (props) => {
         <ul>
             <li><a id="Home" className={isElementActive("Home")} onClick={props.handleChangePage} href="#content">Home</a></li>
             <li><a id="Download" className={isElementActive("Download")} onClick={props.handleChangePage} href="#content">Download</a></li>
+            <li><a id="Enterprise" className={isElementActive("Enterprise")} onClick={props.handleChangePage} href="#content">Enterprise</a></li>
             <li><a id="Contact" className={isElementActive("Contact")} onClick={props.handleChangePage} href="#content">Contact</a></li>
             <li><a id="About" className={isElementActive("About")} onClick={props.handleChangePage} href="#content">About</a></li>
         </ul>

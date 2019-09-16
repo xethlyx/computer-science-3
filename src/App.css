@@ -23,6 +23,12 @@
     font-weight: 200;
 }
 
+code {
+    background-color: rgba(0, 0, 0, 0.07);
+    padding: 5px;
+    border-radius: 5px;
+}
+
 /* Ram Download Elements */
 
 .ram-container {
@@ -70,6 +76,17 @@
 
 .downloadButton:focus {
     outline: none;
+}
+
+/* Home Elements */
+
+.center-content {
+    text-align: center;
+}
+
+.content-image {
+    max-width: 50vw;
+    border-radius: 20px;
 }
 
 /* Transition Elements */
