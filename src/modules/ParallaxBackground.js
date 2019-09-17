@@ -11,9 +11,8 @@ const ParallaxBackground = (props) => {
       <div className="main-header">
         <h1>Out of RAM?</h1>
         <h3>We offer free RAM download solutions all year!</h3>
+        <input type="button" id="content" />
       </div>
-
-      <a id="content"></a>
     </div>
   )
 }

@@ -4,6 +4,13 @@
     transform-style: preserve-3d;
     overflow-x: hidden;
     background-color: var(--background-color);
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    #root {
+        scroll-behavior: auto;
+    }
 }
 
 .content-container {
@@ -79,6 +86,10 @@ code {
 }
 
 /* Home Elements */
+
+#content {
+    opacity: 0;
+}
 
 .center-content {
     text-align: center;
