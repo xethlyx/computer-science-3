@@ -7,6 +7,14 @@
     scroll-behavior: smooth;
 }
 
+*:focus {
+    outline: 1px dashed rgb(114, 114, 114);
+}
+
+*:active {
+    outline: none;
+}
+
 @media (prefers-reduced-motion: reduce) {
     #root {
         scroll-behavior: auto;
