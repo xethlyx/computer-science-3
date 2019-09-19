@@ -17,8 +17,8 @@ class Index extends Component {
 
         <br /><br />
 
-        <div class="center-content">
-          <img class="content-image" src={computerMemory} alt="Computer Memory Sticks" />
+        <div className="center-content">
+          <img className="content-image" src={computerMemory} alt="Computer Memory Sticks" />
         </div>
       </div>
     )
