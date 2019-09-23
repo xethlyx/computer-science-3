@@ -8,7 +8,7 @@ class Index extends Component {
     return (
       <div>
         <h2>About</h2>
-				<p>We offer free RAM downloads</p>
+				<p>We've been offering free ran downloads ever since clueless internet users appeared. They seem happy enough.</p>
       </div>
     )
   }
